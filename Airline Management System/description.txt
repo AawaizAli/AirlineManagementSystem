@@ -1,0 +1,21 @@
+Project Description: Airline Management System in C Language
+
+The Airline Management System is a software solution designed to automate the processes involved in managing an airline. The system will be developed using the C programming language and will be equipped with features such as a login system, booking options, check flight option, see available flights option, and delay flight option. 
+
+Login System:
+The login system is designed to provide security to the system. It will require users to provide their username and password to gain access to the system. The system will have two types of users: the administrator and the customer. The administrator will have full access to the system and can perform all functions, while the customer will only have access to the booking and flight information.
+
+Booking Option:
+The booking option will allow customers to search for flights, choose their preferred seat, and make reservations. The system will provide customers with a list of available flights, including their schedules, routes, and prices. Customers can select their preferred flight and make payment for their bookings through the system.
+
+Check Flight Option:
+The check flight option will enable customers to check the status of their booked flights. Customers can enter their flight details, including flight number, date, and departure time, to check the flight's status.
+
+See Available Flights Option:
+The see available flights option will provide customers with a list of all available flights. Customers can search for flights based on their preferred destination, departure time, and airline. The system will display the available flights' schedules, routes, and prices to help customers make informed decisions.
+
+Delay Flight Option:
+The delay flight option will allow administrators to delay a flight's departure time. The system will enable administrators to input the flight number and the new departure time to update the flight's schedule. The system will then notify customers of the changes made to their flights.
+
+Conclusion:
+The Airline Management System developed with C programming language will provide a user-friendly interface for customers to book and manage their flights. The system will also make it easy for administrators to manage flight schedules and make changes where necessary. The system will be designed with high-level security features to protect customer information and ensure data confidentiality.
